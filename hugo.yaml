@@ -48,7 +48,7 @@ params:
     enabled: true
     title: "SOFTWARE ENGINEER"
     subtitle: "devised software engineer and a cyber security fan"
-    imageUrl: "/me.jpg"
+    imageUrl: "me.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: "Profile Picture"
