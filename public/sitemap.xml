@@ -4,6 +4,10 @@
   <url>
     <loc>http://localhost:1313/portfolio/</loc>
   </url><url>
+    <loc>http://localhost:1313/blog/olevel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/alevel/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/java-project/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/react-project/</loc>
@@ -15,6 +19,10 @@
     <loc>http://localhost:1313/tags/ai/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/arduino/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/aws/</loc>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/c&#43;&#43;/</loc>
   </url><url>
@@ -32,6 +40,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/github-actions/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/ml/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/nodejs/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
@@ -44,6 +54,8 @@
   </url><url>
     <loc>http://localhost:1313/tags/robotics/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/saa/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/solutions-architect/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -51,5 +63,7 @@
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/typescript/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/visualization/</loc>
   </url>
 </urlset>

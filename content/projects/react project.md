@@ -12,5 +12,10 @@ cover:
 ## Description
 
 the purpose of this project was to enable easy and secure team communication and it was later onn increase to a larger population.
+
+## TECHNOLOGIES
+react
+mongoDB
+
  
 ![](/images/react.jpeg)

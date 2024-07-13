@@ -24,3 +24,6 @@ etc
 this project enabled easy car renting
 
  
+## Technologies
+JAVA
+MYSQL

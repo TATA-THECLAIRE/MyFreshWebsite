@@ -18,3 +18,10 @@ cover:
 
 This project was my first projesct that i had to build a complete website
 The website was mend to enable user select the type of laundry they want to do ans add it in thhe launndry basket then they enter the time for pickup and according to their laundry type and pickup location their bill is calculated and generated.
+our case study was buea
+
+## Technologies
+django
+html
+css
+javascript
