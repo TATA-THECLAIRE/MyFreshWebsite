@@ -9,7 +9,7 @@ cover:
   image: "images/me.jpg"
 ---
 
-# Introduction
+# About me
 
 I am creative person who likes learning new thing and taking on challenges to widen my scope of knowledge .From a young age very curious about computers how they work. when I was in form three my teacher told us every single thing in the computer  and the applications in a mobile phone is programmed to work in a particular manner this deepened my interest and I made it a goal to programmed something that will behave the way I want. I am passionate about research and continuous learning but more passionate about cyber security and my passion have grown far above programing network is a field I aspire to venture into as well.
 # FIRST LEAVING CERTIFICATE (FSLC) 
@@ -27,14 +27,17 @@ LAVAL Bilingual college Makepe-Douala
 College of hope arts and sciences Makepe-Douala
  the GCE Ordinary Level examination is a 3-year course program starting from Form 3 to Form 5 (Years 9 to 11). It is usually written in Form 5 (Year 11) in Secondary schools
 
+# languages
 
+English-Advance 
+French-Medium level
 
 
 # Tips for Any exams exam
 
 - Take as many practice tests as you can. They will give you an idea of the kind of topics that come up in the exam most often. Also, the questions in these practice tests match very well with the ones appearing on the actual exam.
 
-- The amount of information that you will have to go through to prepare for this exam is enormous. You not only need a good understanding of the various AWS resources and architectures, but you will also have to remember a lot of information. So, filtering out the irrelevant details from the dumped information and making concise notes, that you can easily revise within 1 or 2 days is crucial for this exam.
+- The amount of information that you will have to go through to prepare for this exam is enormous. You not only need a good understanding of the various resources and architectures, but you will also have to remember a lot of information. So, filtering out the irrelevant details from the dumped information and making concise notes, that you can easily revise within 1 or 2 days is crucial for this exam.
 
 
 

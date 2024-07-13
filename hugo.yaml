@@ -74,7 +74,7 @@ menu:
       url: /
       weight: 10
     - identifier: portfolio
-      name: Portfolio
+      name: Certicates
       url: /portfolio
       weight: 20
    
