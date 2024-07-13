@@ -21,6 +21,7 @@ immigrants on business
 vacation
 etc
 
-this project enabled easy car renting
+this project enabled easy car renting to make travelling easy 
+drivers were also available on request
 
  
