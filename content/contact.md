@@ -22,4 +22,4 @@ Thank you for your interest in contacting me. I welcome your inquiries and look 
 
 
 
-I strive to respond to all messages within 24-48 hours. Thank you for your patience.
+I strive to respond to all messages within 24-48 hours. Thank you for your patience and understanding.
