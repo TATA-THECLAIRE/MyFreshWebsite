@@ -20,7 +20,7 @@ minify:
 params:
   env: production
   title: Theclaire
-  description: "Professional Portfolio of Your Name"
+  description: "Professional Portfolio of TATA THECLAIRE"
   keywords: [Portfolio, Developer, Designer]
   author: THECLAIRE
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -56,6 +56,9 @@ params:
       - name: Certificates
         url: /portfolio
       
+      - name: Blogs
+        url: /blog
+
       - name: Projects
         url: /projects
 
@@ -82,10 +85,7 @@ menu:
       name: github
       url: /contact
       weight: 40
-      identifier: blog
-      name: Blog
-      url: /blog
-      weight: 50
+     
       identifier: projects
       name: Projects
       url: /projects
