@@ -16,7 +16,8 @@ Thank you for your interest in contacting me. I welcome your inquiries and look 
 ## Social Media
 
 - [GitHub](https://github.com/TATA-THECLAIRE)
-- [Twitter](https://twitter.com/yourusername)
+- [linkedin](https://twitter.com/TataTheclaire)
+ 
 
 
 
