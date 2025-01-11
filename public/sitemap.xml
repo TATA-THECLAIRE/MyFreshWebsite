@@ -16,6 +16,10 @@
   </url><url>
     <loc>http://localhost:1313/projects/django-project/</loc>
   </url><url>
+    <loc>http://localhost:1313/projects/go/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resume/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/arduino/</loc>

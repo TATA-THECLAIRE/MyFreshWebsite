@@ -1,7 +1,7 @@
 baseURL: "http://localhost:1313/"
 languageCode: en-us
 paginate: 5
-title: TATA THECLAIRE G
+title: TATA THECLAIRE G.
 theme: PaperMod
 
 
@@ -46,8 +46,8 @@ params:
 
   profileMode:
     enabled: true
-    title: "SOFTWARE ENGINEER"
-    subtitle: "devised software engineer and a cyber security fan"
+    title: "hi, i'm Tata Theclaire"
+    subtitle: "An Aspiring Software Developer and Data Analyst"
     imageUrl: "me.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -63,12 +63,12 @@ params:
         url: /projects
 
   socialIcons:
-    - name: Tata Theclaire
-      url: "https://www.linkedin.com/in/Tata Theclaire"
-    - name: TATA-THECLAIRE
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/TataTheclaire"
+    - name: "GitHub"
       url: "https://github.com/TATA-THECLAIRE"
-    - name: THECLAIRE
-      url: "mailto:tatatheclaire@gemail.com"
+    - name: "Email"
+      url: "mailto:tatatheclaire@gmail.com"
 
 menu:
   main:
@@ -93,4 +93,8 @@ menu:
     - identifier: contact
       name: Contact
       url: /contact/
+      weight: 70
+    - identifier: resume
+      name: resume
+      url: /resume
       weight: 70
