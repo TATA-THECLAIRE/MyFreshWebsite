@@ -23,4 +23,4 @@ go
 nextjs
 github
 
-- [GitHub](https://github.com/TATA-THECLAIRE/QUEUEING-SYSTEM)
+- [GitHub](https://github.com/TATA-THECLAIRE/QLEESS-FRONTEND)
